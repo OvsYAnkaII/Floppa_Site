@@ -5,3 +5,4 @@ https://ovsyankaii.github.io/Floppa_Site/Main.html
 Делают:
 - Артём Сулейманов
 - Степан Туманов
+- Максим Герасимов
