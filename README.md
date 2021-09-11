@@ -1,6 +1,6 @@
 # Floppa_Site (ДЗ)
 11В2
-https://ovsyankaii.github.io/Floppa_Site/Main.html
+https://ovsyankaii.github.io/Floppa_Site
 
 Делают:
 - Артём Сулейманов
